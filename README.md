@@ -110,21 +110,6 @@ Classifies listings into price-versus-availability quadrants to identify revenue
 - Entire home/apartment listings generally priced higher than private rooms.
 - Location, room type, availability, and host portfolio size are important drivers of market segmentation.
 
-## Repository Structure
-
-```text
-.
-├── Airbnb_NYC_EDA_Industry_Ready.ipynb     # Main refined analysis notebook
-├── PROJECT_REPORT.md                       # Business project report
-├── README.md                               # GitHub repository overview
-├── requirements.txt                        # Python dependencies
-└── outputs/                                # Generated files after running notebook
-    ├── airbnb_cleaned_focused_dataset.csv
-    ├── borough_supply_summary.csv
-    ├── price_by_borough_summary.csv
-    ├── price_by_room_type_summary.csv
-    └── neighborhood_price_summary.csv
-```
 
 ## How to Run This Project
 
@@ -167,11 +152,3 @@ This project demonstrates the ability to move beyond basic charting and deliver 
 - Estimated revenue is a directional proxy, not actual revenue.
 - Price outliers are handled separately for visualization clarity.
 - This project is exploratory and does not make causal claims.
-
-## Next Steps
-
-- Add predictive modeling to estimate price or booking likelihood.
-- Build a dashboard in Power BI or Tableau for stakeholder consumption.
-- Add neighborhood-level clustering based on price, availability, and demand signals.
-- Compare Airbnb pricing with external hotel or tourism demand data.
-- Build a recommendation engine for pricing optimization.
