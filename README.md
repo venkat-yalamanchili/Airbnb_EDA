@@ -111,24 +111,6 @@ Classifies listings into price-versus-availability quadrants to identify revenue
 - Location, room type, availability, and host portfolio size are important drivers of market segmentation.
 
 
-## How to Run This Project
-
-1. Clone this repository.
-2. Add the Airbnb dataset file to the project folder and name it `datasets.csv`.
-3. Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Open the notebook:
-
-```bash
-jupyter notebook Airbnb_NYC_EDA_Industry_Ready.ipynb
-```
-
-5. Run all cells from top to bottom.
-
 ## Business Impact
 
 This project demonstrates the ability to move beyond basic charting and deliver decision-ready analysis. The notebook frames EDA around marketplace questions, applies thoughtful data cleaning, builds reusable features, and converts patterns into recommendations for pricing, supply planning, host strategy, and opportunity discovery.
@@ -145,10 +127,3 @@ This project demonstrates the ability to move beyond basic charting and deliver 
 - Geographic Analysis
 - Business Storytelling
 - GitHub Project Documentation
-
-## Limitations
-
-- Review activity is a proxy for demand, not true booking volume.
-- Estimated revenue is a directional proxy, not actual revenue.
-- Price outliers are handled separately for visualization clarity.
-- This project is exploratory and does not make causal claims.
