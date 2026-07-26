@@ -1,4 +1,4 @@
-# NYC Airbnb Market Intelligence: Pricing, Demand & Availability EDA
+# NYC Airbnb Market EDA: Pricing, Demand & Availability EDA
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
